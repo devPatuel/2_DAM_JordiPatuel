@@ -40,7 +40,7 @@ public class GestionArchivos {
                     }
 
 
-                    System.out.println("Fichero: "+pat.getName()+" "+tipo+" "+ pat.length()+ " bytes "+permisos)
+                    System.out.println("Fichero: "+pat.getName()+" "+tipo+" "+ pat.length()+ " bytes "+permisos);
 
                 }
             }
